@@ -1,0 +1,4 @@
+@set UPDATED 8 July 2013
+@set UPDATED-MONTH July 2013
+@set EDITION 0.9.28
+@set VERSION 0.9.28
